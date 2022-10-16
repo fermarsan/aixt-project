@@ -6,7 +6,9 @@ The aim of this project is to provide a tool for programing microcontrollers in 
 - The **Aixt to C Transpiler**, which translate de **Aixt** source code to _C_, for the expecific _C_ compiler of each microcontroller.
 - The **Aixt API**, which makes the programming easy by standardizing the setup and I/O functions.  
 
-![](/logo/diagram.svg)
+<div align="center">
+<img src="/logo/diagram.svg" width="33%" />
+</div>
 
 ## Aixt Language
 
