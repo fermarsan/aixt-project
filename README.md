@@ -1,5 +1,9 @@
 # Aixt Project
 
+<div align="center">
+<img src="/logo/Aixtu-ru.jpeg" width="25%" />
+</div>
+
 The aim of this project is to provide a tool for programing microcontrollers in a modern language but allowing compiling code even in low-resource devices. This project is composed by 3 main componentes:
 
 - The **Aixt** programing language based on the [_V language_](https://vlang.io/) syntax.
