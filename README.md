@@ -7,7 +7,7 @@ The aim of this project is to provide a tool for programing microcontrollers in 
 - The **Aixt API**, which makes the programming easy by standardizing the setup and I/O functions.  
 
 <div align="center">
-<img src="/logo/diagram.svg" width="33%" />
+<img src="/logo/diagram.svg" width="45%" />
 </div>
 
 ## Aixt Language
